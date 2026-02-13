@@ -4,8 +4,8 @@
 }
 
 .colour-border{
-  border: 3px solid red;
-  padding: 10px;
+  border: 17px solid rgb(130, 130, 218)
+  padding: 33px;
 }
 
 .header{
@@ -13,6 +13,6 @@
 }
 
 body{
-  padding: 10px;
-  background-color: green;
+  padding: 20px;
+  background-color: rgb(201, 170, 201);
 }
