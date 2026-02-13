@@ -1,0 +1,2 @@
+image: pooagar/vat:<+pipeline.sequenceId>
+replicas: 1
